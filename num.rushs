@@ -1,0 +1,8 @@
+set_base 10
+n_screen 400 400 -150 200
+n_turtle
+reg_shape "piskel.gif"
+set_shape "piskel.gif"
+pd
+repeat 4 [ fd 40,set_heading_by 90 ]
+pu 

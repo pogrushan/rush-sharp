@@ -1,0 +1,8 @@
+set_base 16
+n_screen 0x190 0x190 -0x96 0xC8
+n_turtle
+//^reg_shape "piskel.gif"
+//^set_shape "piskel.gif"
+pd
+repeat 0x4 [ fd 0x14,rt 0x5A ]
+pu 
